@@ -14,7 +14,7 @@ h1{
 
 
 }
-p{
+#p1{
   color: azure;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-weight: bold;
@@ -36,7 +36,7 @@ p{
   font-size: 22px;
   background:rgba(16, 33, 33, 0.677);
   color: aliceblue;
-  margin: 30px;
+   margin: 10px;
 }
 #box2{
   border: 5px solid;
@@ -45,5 +45,25 @@ p{
   font-size: 22px;
   background:rgba(16, 33, 33, 0.677);
   color: aliceblue;
-  margin: 30px;
+   margin: 10px;
 }
+#box3{
+  border: 5px solid;
+  width: 250px;
+  height:250px;
+  font-size: 22px;
+  background:rgba(16, 33, 33, 0.677);
+  color: aliceblue;
+  margin: 10px;
+}
+.boxes{
+float: left;
+
+}
+#p2{
+  color: azure;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+
+}
+
