@@ -1,0 +1,13 @@
+body{
+  background-color: black;
+}
+h1{
+  color: aqua;
+  font-family: "Press Start 2P", 'Franklin Gothic Medium', 'Arial Narrow', 'Arial, sans-serif';
+}
+p{
+  color: azure;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  text-decoration: underline;
+}
