@@ -4,10 +4,23 @@ body{
 h1{
   color: aqua;
   font-family: "Press Start 2P", 'Franklin Gothic Medium', 'Arial Narrow', 'Arial, sans-serif';
+  border-top-style:hidden;
+  border-top-color: azure;
+  text-decoration: dotted underline;
+  border-left-style: double;
+  border-left-width:10px ;
+
 }
 p{
   color: azure;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-weight: bold;
-  text-decoration: underline;
+  text-decoration:aqua dotted underline;
+  font-size: medium;
+  border-style: outset;
+  border-top-left-radius: 8px;
+  border-bottom-right-radius: 9px;
+  border-style: double;
+  border-width: 9px;
+  padding: 6px
 }
