@@ -58,12 +58,13 @@ h1{
 }
 .boxes{
 float: left;
-
+padding: 5px;
 }
 #p2{
   color: azure;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-weight: bold;
-
+  clear: left;
+  
 }
 
