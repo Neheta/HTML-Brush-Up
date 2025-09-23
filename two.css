@@ -1,5 +1,7 @@
 body{
-  background-color: black;
+  background: linear-gradient(to right, rgb(4, 4, 4), rgba(1, 107, 100, 0.43));
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 h1{
   color: aqua;
@@ -9,6 +11,7 @@ h1{
   text-decoration: dotted underline;
   border-left-style: double;
   border-left-width:10px ;
+
 
 }
 p{
@@ -22,5 +25,25 @@ p{
   border-bottom-right-radius: 9px;
   border-style: double;
   border-width: 9px;
-  padding: 6px
+  padding: 6px;
+  background: linear-gradient(black,rgb(0, 128, 109));
+}
+
+#box1{
+  border: 5px solid;
+  width: 250px;
+  height:250px;
+  font-size: 22px;
+  background:rgba(16, 33, 33, 0.677);
+  color: aliceblue;
+  margin: 30px;
+}
+#box2{
+  border: 5px solid;
+  width: 250px;
+  height:250px;
+  font-size: 22px;
+  background:rgba(16, 33, 33, 0.677);
+  color: aliceblue;
+  margin: 30px;
 }
