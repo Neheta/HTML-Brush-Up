@@ -14,5 +14,6 @@
   width: 100px;
   background-color: tomato;
   position: absolute;
-  /* top: ; */
+  top:  100px;
+  left: 100px;
 }
