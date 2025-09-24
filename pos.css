@@ -53,3 +53,47 @@ a:hover{
 a:active{
  color: #000;
 }
+button{
+  margin: 30px;
+  height: 50px;
+  width:70px;
+}
+button:hover{
+  background-color: rgb(0, 195, 255);
+}
+button:active{
+  color: red;
+}
+h1{
+  text-shadow: -2px 2px 5px rgb(170, 255, 0) , 2px 2px 1px red, -9px 1px 4px rgba(0, 0, 0, 0.443);
+}
+h1:hover{
+  box-shadow: 5px 5px 5px green;
+}
+body{
+  background-color: bisque;
+}
+.fa-face-smile{
+  color: yellow;
+  font-size: 50px;
+  border: 2px solid rgba(0, 0, 0, 0.139);
+  background-color: rgba(21, 33, 33, 0.221);
+}
+.fa-mug-hot{
+  color: rgba(71, 37, 37, 0.961);
+  font-size: 50px;
+  border: 5px solid rgb(232, 228, 228);
+  background-color: rgb(229, 235, 235);
+
+}
+.fa-sack-dollar{
+   font-size: 50px;
+  border: 5px solid rgb(232, 228, 228);
+  background-color: rgb(229, 235, 235);
+
+
+}
+#bye{
+  
+}
+
