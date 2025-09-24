@@ -17,3 +17,39 @@
   top:  100px;
   left: 100px;
 }
+#box3{
+  border: 1px solid;
+  height: 100px;
+  width: 300px;
+  background-color: rgba(229, 131, 185, 0.882);
+  position: sticky;
+  top:0;
+  left: 300px;
+  
+}
+#box4{
+  border: 1px solid;
+  height: 100px;
+  width: 300px;
+  background-color: rgba(229, 131, 185, 0.882);
+  position: fixed;
+  bottom:0;
+  right:0;
+  
+}
+a:link{
+  color: chartreuse;
+  font-size: xx-large;
+  font-style: italic;
+
+}
+a:visited{
+  color: darkcyan;
+
+}
+a:hover{
+  color: brown;
+}
+a:active{
+ color: #000;
+}
