@@ -1,0 +1,23 @@
+body{
+  min-height: 100dvh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2%; 
+  
+}
+
+.box{
+  background-color: palevioletred;
+
+}
+.grid-container{
+  display: grid;
+  grid-template-columns: 200px 200px 200px 200px;
+  grid-template-rows: 200px 200px;
+  gap: 1em;
+  grid-template-areas:
+  "box-1 box-2  box-2 box-3" 
+  "box-1 box-4 box-5 box-5";
+}
+
